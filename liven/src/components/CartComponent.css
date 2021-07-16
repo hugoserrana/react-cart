@@ -1,0 +1,15 @@
+.cart {
+  padding: 1rem;
+  margin: 1rem;
+  display: flex;
+}
+
+.cart-header {
+  font-size: 70px;
+  cursor: pointer;
+}
+
+.title-total {
+  color: white;
+  font-family: 800;
+}

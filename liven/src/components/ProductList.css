@@ -1,0 +1,27 @@
+.product-list-container {
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product-list {
+  margin-top: 10px;
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.error,
+.spinner {
+  margin-top: 20%;
+}
+
+.error {
+  color: red;
+  font-size: 20px;
+}
